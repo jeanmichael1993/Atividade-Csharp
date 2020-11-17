@@ -11,7 +11,7 @@ namespace Atividades.Program
         static void Main(String[]args)
         {
             Console.WriteLine("Enter cliente data:");
-            Console.Write("Name:");
+            Console.Write("Nome:");
             String name = Console.ReadLine();
             Console.Write("Email:");
             String email = Console.ReadLine();
